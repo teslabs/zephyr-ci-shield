@@ -1,0 +1,21 @@
+Comment,Designator,Footprint,LCSC Part #
+100nF,"C1,C2,C3",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C49678
+MountingHole,"H1,H2,H3,H4",MountingHole_3.2mm,DNP
+Micro_SD_Card,J1,microSD_HC_Hirose_DM3AT-SF-PEJM5,DNP
+CN1,J2,PinHeader_1x08_P2.54mm_Vertical,DNP
+CN2,J3,PinHeader_1x06_P2.54mm_Vertical,DNP
+CN4,J4,PinHeader_1x10_P2.54mm_Vertical,DNP
+CN3,J5,PinHeader_1x08_P2.54mm_Vertical,DNP
+10K 1%,"R1,R2,R3,R4,R5,R6",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17414
+0,"R7,R8,R9,R10",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17477
+4.7K,"R11,R12",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17673
+RESET,SW1,SW_SPST_TL3342,C318884
+AVAL,TP1,TestPoint_Pad_D1.0mm,DNP
+SCK,TP2,TestPoint_Pad_D1.0mm,DNP
+MISO,TP3,TestPoint_Pad_D1.0mm,DNP
+SCL,TP4,TestPoint_Pad_D1.0mm,DNP
+MOSI,TP5,TestPoint_Pad_D1.0mm,DNP
+SDA,TP6,TestPoint_Pad_D1.0mm,DNP
+NCS,TP7,TestPoint_Pad_D1.0mm,DNP
+LM75B,U1,SOIC-8_3.9x4.9mm_P1.27mm,C34565
+24LC256,U2,SOIC-8_3.9x4.9mm_P1.27mm,C5458
